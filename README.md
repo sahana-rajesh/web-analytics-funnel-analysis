@@ -15,4 +15,4 @@ funnel drop-off patterns, traffic source performance, and device revenue trends.
 - Dataset: `bigquery-public-data.ga4_obfuscated_sample_ecommerce`
 
 ## Dashboard
-[View Live Dashboard](<paste your Looker Studio link here>)
+https://datastudio.google.com/u/0/reporting/58f9e153-7177-48ba-8973-c26bd2426043/page/ltfzF/edit
